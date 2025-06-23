@@ -11,3 +11,5 @@ sqlx = { version = "0.8.6", features = [ "runtime-tokio-rustls" , "postgres", "t
 dotenvy = "0.15"
 log = "0.4"
 pretty_env_logger = "0.5"
+async-trait = "0.1"
+thiserror = "2.0.12"
